@@ -27,9 +27,8 @@ It would be used to easily scan pokémon cards and then add them into the (http:
 So you have an easy way to add cards to your collection immediately!
 
 Image of the software.
-![Pic]((https://github.com/Nanayamichan/BuildingAI-IdeaForAIUse/blob/main/EXsorted.png))
+![Pic](DeckView.png)
 
-Testing resizing images. 
 <img src="EXsorted.png" width="300">
 
 

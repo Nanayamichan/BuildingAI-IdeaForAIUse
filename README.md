@@ -30,7 +30,7 @@ Image of the software.
 ![Pic]((https://github.com/Nanayamichan/BuildingAI-IdeaForAIUse/blob/main/EXsorted.png))
 
 Testing resizing images. 
-<img src="(https://github.com/Nanayamichan/BuildingAI-IdeaForAIUse/blob/main/EXsorted.png)" width="300">
+<img src="EXsorted.png" width="300">
 
 
 ```

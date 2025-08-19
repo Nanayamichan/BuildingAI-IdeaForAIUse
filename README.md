@@ -23,7 +23,7 @@ Problems:
 
 ## How is it used?
 
-It would be used to easily scan pokémon cards and then add them into the (http://www.kindbergs.dk/pokemon-tcg-pokedex/) software i've made. 
+It would be used to easily scan pokémon cards and then add them into the (https://www.kindbergs.dk/pokemon-tcg-pokedex/) software i've made. 
 So you have an easy way to add cards to your collection immediately!
 
 Image of the software.

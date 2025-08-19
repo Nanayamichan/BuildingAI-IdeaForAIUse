@@ -13,7 +13,7 @@ The idea is to use a database of cards from the Pokémon TCG and create a scanne
 
 ## Background
 
-I've made a software already. http://www.kindbergs.dk/pokemon-tcg-pokedex/
+I've made a software already. https://www.kindbergs.dk/pokemon-tcg-pokedex/
 that's my motivation for thinking of doing this. 
 
 Problems:
@@ -31,6 +31,7 @@ Image of the software.
 
 <img src="EXsorted.png" width="300">
 
+and again, the software I intended to use this AI for can be downloaded here:  https://www.kindbergs.dk/pokemon-tcg-pokedex/
 
 ```
 
